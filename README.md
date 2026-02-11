@@ -1,6 +1,5 @@
 <h1>Olá, meu nome é Erick Oliveira!</h1>
-<h3><a href="https://www.linkedin.com/in/erick-oliveira-de-almeida-a36023350/">Sou estudante do Campus PAAS, IFRN</a></h3>
-<hr>
+<h3><a href="https://www.linkedin.com/in/erick-oliveira-de-almeida-a36023350/">Sou estudante do 2° ano, informática. Campus PAAS, IFRN</a> tenho como objetivo acadêmico estudar na UFCG, em ciência da computação.</h3>
 <h2>📌 Linguagens Aproveitadas:</h2>
 <div style="display: flex; justify-content: space-between;">
   <img src="https://images.icon-icons.com/112/PNG/512/html5_18891.png" alt="html" height="50px"; widght="50px";>
