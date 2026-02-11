@@ -2,9 +2,11 @@
 <h3><a href="https://www.linkedin.com/in/erick-oliveira-de-almeida-a36023350/">Sou estudante do Campus PAAS, IFRN</a></h3>
 <hr>
 <h2>📌 Linguagens Aproveitadas:</h2>
-  [![Top Languages](https://github-readme-stats.vercel.app)](
-    https://github.com
-    )
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://images.icon-icons.com/112/PNG/512/html5_18891.png" alt="html" height="50px"; widght="50px";>
+  <img src="https://images.icon-icons.com/844/PNG/512/CSS3_icon-icons.com_67069.png" alt="css" height="50px"; widght="50px";>
+  <img src="https://img.icons8.com/color/512/tailwind_css.png" height="50px"; widght="50px";>  
+</div>
 <h1>📌 Meus Projetos Iniciais:</h1>
 <ul>
   <li><a href="https://github.com/erickoalmeida/tailwind-mercadolivre">Projeto: e-commerce</a></li>
