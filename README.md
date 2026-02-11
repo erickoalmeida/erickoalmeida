@@ -1,13 +1,9 @@
-.esquerda {
-    padding-left: 10px;
-}
-
 <h1>Olá, meu nome é Erick Oliveira!</h1>
 <h3><a href="https://www.linkedin.com/in/erick-oliveira-de-almeida-a36023350/">Sou estudante do Campus PAAS, IFRN</a></h3>
 <hr>
-<h1 class="esquerda">📌 Meus Projetos Iniciais:</h1>
+<h1>📌 Meus Projetos Iniciais:</h1>
 <ul>
-  <li><a href="https://github.com/erickoalmeida/tailwind-mercadolivre">Projeto: e-commerce</a></ul>
+  <li><a href="https://github.com/erickoalmeida/tailwind-mercadolivre">Projeto: e-commerce</a></li>
   <li><a href="https://github.com/erickoalmeida/wikipediaerick">Wikipedia</a></li>
   <li><a href="https://github.com/erickoalmeida/meuhtml">Meu primeiro html</a></li>
 </ul>
