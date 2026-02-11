@@ -1,8 +1,7 @@
 <h1>Olá, meu nome é Erick Oliveira!</h1>
 <h3><a href="https://www.linkedin.com/in/erick-oliveira-de-almeida-a36023350/">Sou estudante do Campus PAAS, IFRN</a></h3>
 <hr>
-<br>
-<h1>📌 Meus Prjetos Iniciais:</h1>
+<h1 style="padding-left: 10px;">📌 Meus Projetos Iniciais:</h1>
 <li>
   <ul><a href="https://github.com/erickoalmeida/tailwind-mercadolivre">Projeto: e-commerce</a></ul>
   <br>
