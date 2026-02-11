@@ -12,4 +12,4 @@
   <br>
 </li>
 <h1>📌 Midias Sociais:</h1>
-<a href="https://www.linkedin.com/in/erick-oliveira-de-almeida-a36023350/"><img src="https://static.vecteezy.com/system/resources/previews/056/006/604/non_2x/a-black-linkedin-logo-free-png.png"></a>
+<a href="https://www.linkedin.com/in/erick-oliveira-de-almeida-a36023350/"><img src="https://static.vecteezy.com/system/resources/previews/056/006/604/non_2x/a-black-linkedin-logo-free-png.png" height="50px" width="50px"></a>
